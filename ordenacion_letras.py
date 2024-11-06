@@ -1,4 +1,4 @@
-"""
+
 def bubble_sort_letras(arr):
     n = len(arr)
     for i in range(n):
@@ -36,7 +36,7 @@ print("Lista original:", letras)
 letras_ordenadas = insertion_sort_letras(letras)
 print("Lista ordenada:", letras_ordenadas)
 
-"""
+
 def selection_sort_letras(arr):
     n = len(arr)
     for i in range(n):
